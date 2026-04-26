@@ -1,20 +1,12 @@
 {
   "plugins": [
     {
-      "id": "emf_boost",
-      "name": "EMF Boost",
-      "description": "Enhances EMF sensitivity and adds advanced filtering.",
+      "id": "sample_plugin",
+      "name": "Sample Plugin",
+      "description": "A demonstration plugin showing the required structure.",
       "version": "1.0.0",
-      "downloadUrl": "https://github.com/SpectreLens/PluginRepo/releases/download/emf_boost/emf_boost.zip",
-      "iconUrl": "https://raw.githubusercontent.com/SpectreLens/PluginRepo/main/icons/emf_boost.png"
-    },
-    {
-      "id": "evp_enhancer",
-      "name": "EVP Enhancer",
-      "description": "Improves EVP clarity using spectral isolation.",
-      "version": "1.0.0",
-      "downloadUrl": "https://github.com/SpectreLens/PluginRepo/releases/download/evp_enhancer/evp_enhancer.zip"
-      "iconUrl": "https://raw.githubusercontent.com/SpectreLens/PluginRepo/main/icons/evp_enhancer.png"
+      "downloadUrl": "https://raw.githubusercontent.com/SpectreLens/PluginRepo/main/releases/sample_plugin.zip",
+      "iconUrl": "https://raw.githubusercontent.com/SpectreLens/PluginRepo/main/icons/sample_plugin.png"
     }
   ]
 }
