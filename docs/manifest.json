@@ -1,0 +1,11 @@
+{
+"id": "sample_plugin",
+"name": "Sample Plugin",
+"version": "1.0.0",
+"description": "A demonstration plugin showing the required structure.",
+"author": "SpectreLens",
+"minAppVersion": "1.0.0",
+"entrypoint": "assets/config.json",
+"tags": ["sample", "template"]
+}
+
