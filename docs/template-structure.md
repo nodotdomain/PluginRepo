@@ -1,10 +1,19 @@
-{
-"id": "your_plugin_id",
-"name": "Your Plugin Name",
-"version": "1.0.0",
-"description": "Short description of what your plugin does.",
-"author": "Your Name",
-"minAppVersion": "1.0.0",
-"entrypoint": "assets/config.json",
-"tags": ["example", "template"]
-}
+Template Plugin Structure
+template_plugin/
+├── manifest.json
+└── assets/
+├── config.json
+├── sample.png
+└── data/
+
+
+---
+
+# 📦 **Template Plugin ZIP Contents**
+
+Place these files into a folder named `sample_plugin/` then ZIP it.
+
+sample_plugin/
+├── manifest.json
+└── assets/
+└── config.json
