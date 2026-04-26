@@ -60,3 +60,36 @@ The Plugin Store automatically detects updates when the version number increases
 
 ## 📁 Repository Structure
 
+/
+├── plugins.json
+├── icons/
+│   └── <pluginId>.png
+├── releases/
+│   └── <pluginId>.zip
+├── docs/
+│   ├── developer-guide.md
+│   └── template-manifest.json
+└── README.md
+
+---
+
+## 🛠️ Contributing
+
+1. Fork the repository  
+2. Add your plugin ZIP + icon  
+3. Update `plugins.json`  
+4. Submit a pull request  
+
+Plugins are reviewed for:
+- Stability  
+- Security  
+- Performance  
+- UX quality  
+- Brand consistency  
+
+---
+
+## 🛡️ License
+
+Plugins remain the property of their respective authors.  
+The SpectreLens Plugin Repository metadata is licensed under MIT.
